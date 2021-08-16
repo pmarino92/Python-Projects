@@ -10,7 +10,7 @@ def wbbrowser():
     f.close()
     webbrowser.open_new_tab('index.html')
 
-
+# Gui Instance
 wbGui = Tk()
 source = StringVar()
 
