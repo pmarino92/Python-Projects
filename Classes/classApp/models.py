@@ -14,6 +14,11 @@ class djangoClasses (models.Model):
 
 
 #objects of class "djangoClasses"
-Class1 = djangoClasses('Biology', 101, 'Bill Cyrus', 1.5)
-Class2 = djangoClasses('History', 100, 'Lilly Covfefe', 1)
-Class3 = djangoClasses('Calculus', 110, 'Stephanie Gaby', 120)
+Biology = djangoClasses(title="Biology", number=101, name="Bill Cyrus", duration=1.5)
+Biology.save()
+
+History = djangoClasses(title="History", number=100, name="Lily Sue", duration=1)
+History.save()
+
+Calculus = djangoClasses(title="Calculus", number=200, name="Stephanie Gaby", duration=2.5)
+Calculus.save()
