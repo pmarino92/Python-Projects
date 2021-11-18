@@ -3,7 +3,7 @@
 
 ## Projects
 <a href="https://github.com/pmarino92/Python-Projects/tree/main/Phonebook%20Project">Phonebook</a> <br>
-<a href="https://github.com/pmarino92/Python-Projects/blob/main/FileTransfer_Gui.py">Check Files Gui</a>
+<a href="https://github.com/pmarino92/Python-Projects/blob/main/FileTransfer_Gui.py">Check Files Gui</a><br>
 <a href="https://github.com/pmarino92/Python-Projects/tree/main/Space%20Invaders">Space Invaders</a>
 
 ## Phonebook
